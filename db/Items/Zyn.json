@@ -1,0 +1,281 @@
+{
+    "68d72f158f7761d24bf8d14a": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "Zyn/zyncin.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 3,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Zyn-Can Cinnamon",
+                "shortName": "Zyn",
+                "description": "The ZYN Metal Can is a premium, metal can available in 4 colors, with a rugged finish, easy-open, holds more pouches, and has a hidden lid compartment."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 18500,
+        "handbookPriceRoubles": 18500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d72f2c5998ea344e7533ab": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "Zyn/zynmint.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 3,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Zyn-Can Mint",
+                "shortName": "Zyn",
+                "description": "The ZYN Metal Can is a premium, metal can available in 4 colors, with a rugged finish, easy-open, holds more pouches, and has a hidden lid compartment."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 18500,
+        "handbookPriceRoubles": 18500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d72f4a013889cd4440b5fc": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "Zyn/zynwinter.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 3,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Zyn-Can Winter",
+                "shortName": "Zyn",
+                "description": "The ZYN Metal Can is a premium, metal can available in 4 colors, with a rugged finish, easy-open, holds more pouches, and has a hidden lid compartment."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 18500,
+        "handbookPriceRoubles": 18500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    }
+}

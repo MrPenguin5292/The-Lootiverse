@@ -1,0 +1,281 @@
+{
+    "68d734803aa119f31873190f": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "Gnome/Gnome1.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 3,
+            "Height": 2,
+            "Width": 2,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Garden Gnome Fishing",
+                "shortName": "Gnome",
+                "description": "Garden gnomes. They're kitschy, they're retro, they're a lot of fun."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 35000,
+        "handbookPriceRoubles": 35000,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d735698ca159a75a97f688": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "Gnome/Gnome2.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 3,
+            "Height": 2,
+            "Width": 2,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Garden Gnome",
+                "shortName": "Gnome",
+                "description": "Garden gnomes. They're kitschy, they're retro, they're a lot of fun."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 35000,
+        "handbookPriceRoubles": 35000,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d73578d62e39bb6e58bc67": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "Gnome/Gnome3.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 3,
+            "Height": 2,
+            "Width": 2,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Garden Gnome Mooning",
+                "shortName": "Gnome",
+                "description": "Garden gnomes. They're kitschy, they're retro, they're a lot of fun."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 35000,
+        "handbookPriceRoubles": 35000,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    }
+}

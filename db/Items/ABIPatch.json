@@ -1,0 +1,3908 @@
+{
+    "ded6a9a1669349bfad7b4fa3": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch1.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #1",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 44495,
+        "handbookPriceRoubles": 31288,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "42e216b347004f0c97152fa9": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch2.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #2",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 7532,
+        "handbookPriceRoubles": 6436,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "f39ddc42d44a4efd815c4f0c": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch3.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #3",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 28420,
+        "handbookPriceRoubles": 40023,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "3998faf52e714decba6d1168": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch4.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #4",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 20169,
+        "handbookPriceRoubles": 18180,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "09014710965745a593e290a0": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch5.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #5",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 17634,
+        "handbookPriceRoubles": 22606,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "e1e91779a48b48e4a3cac92f": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch6.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #6",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 14634,
+        "handbookPriceRoubles": 43867,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "38f0ff4e854e48ecb4b53148": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch7.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #7",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 44723,
+        "handbookPriceRoubles": 29487,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "67577ab69a6340d5b666beec": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch8.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #8",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 49940,
+        "handbookPriceRoubles": 16677,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "46bdfd834af54eb8b9eca93c": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch9.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #9",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 45365,
+        "handbookPriceRoubles": 11629,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "cdc1335a2f07477490ddebaf": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch10.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #10",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 40709,
+        "handbookPriceRoubles": 45932,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "cf532863a90f422d95f971b8": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch11.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #11",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 40785,
+        "handbookPriceRoubles": 7510,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "992995025c8140d49b7a32b2": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch12.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #12",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 37178,
+        "handbookPriceRoubles": 39629,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "45baf75a8f914bf9a3d816b5": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch13.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #13",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 48091,
+        "handbookPriceRoubles": 19541,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "d41489697a794e3f809ef382": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch14.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #14",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 20729,
+        "handbookPriceRoubles": 48604,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "3695f29c340e44288f5e1239": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch15.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #15",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 43660,
+        "handbookPriceRoubles": 39900,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "9bbbe54a31344c2da519e8cc": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch16.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #16",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 16116,
+        "handbookPriceRoubles": 26274,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "243dbc6726f84e308e0516a0": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch17.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #17",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 28265,
+        "handbookPriceRoubles": 16340,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "59c4ba6674544be4b886d179": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch18.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #18",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 22046,
+        "handbookPriceRoubles": 35969,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "ac9156a1bf454df78398d035": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch19.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #19",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13605,
+        "handbookPriceRoubles": 19347,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "3bdc04a6814f48dfadaef211": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch20.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #20",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 22251,
+        "handbookPriceRoubles": 42129,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "bc21d8b9897e4cd6b5da9db2": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch21.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #21",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 21149,
+        "handbookPriceRoubles": 34061,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "212341064a544b49b31f24c1": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch22.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #22",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 46397,
+        "handbookPriceRoubles": 12063,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "b32553d11c3f4047a6848596": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch23.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #23",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 23585,
+        "handbookPriceRoubles": 28260,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "ce0113afb24b440f9b6fd8c3": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch24.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #24",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 40780,
+        "handbookPriceRoubles": 34273,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "4e27cce770304e36ad60d177": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch25.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #25",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 47106,
+        "handbookPriceRoubles": 5618,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "3c9391a4081f4112b51609fd": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch26.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #26",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 18340,
+        "handbookPriceRoubles": 44184,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "8857adde35d347c893303a89": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch27.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #27",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 23206,
+        "handbookPriceRoubles": 49603,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "4c2ce20b13874bb4aeb699e7": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch28.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #28",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 40701,
+        "handbookPriceRoubles": 21736,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "62d6c427badc4bb8b9ec6d11": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch29.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #29",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13588,
+        "handbookPriceRoubles": 27845,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "e3057bf9889640ee9d082ed4": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch30.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #30",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 31431,
+        "handbookPriceRoubles": 25675,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "e889098ae57b40e4b30f6a6f": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch31.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #31",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 18537,
+        "handbookPriceRoubles": 13598,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "f636b459a5fb4612b976b265": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch32.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #32",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 17788,
+        "handbookPriceRoubles": 43085,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "cdbd84584d984d61a67d430b": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch33.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #33",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 31606,
+        "handbookPriceRoubles": 14863,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "656d77b6418b474bb4a2e1ae": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch34.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #34",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 33388,
+        "handbookPriceRoubles": 14911,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "ce0426de939a4af3a30ee5d1": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch35.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #35",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 5344,
+        "handbookPriceRoubles": 45264,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "8be27ac0bef74faa98749192": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch36.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #36",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 36743,
+        "handbookPriceRoubles": 24852,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "9f7c6ec3c05d455fac0a3452": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch37.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #37",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 5832,
+        "handbookPriceRoubles": 5719,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "e9a52178712c4b7d98668e46": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch38.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #38",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 12504,
+        "handbookPriceRoubles": 7884,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "6481eec900d74f5eb07e7fdb": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch39.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #39",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 28655,
+        "handbookPriceRoubles": 48448,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "3a61764de2f54abb91839afa": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch40.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #40",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 9263,
+        "handbookPriceRoubles": 22869,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "0f318453ddf14b03bc1b1c54": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch41.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #41",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 9679,
+        "handbookPriceRoubles": 6307,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "bce0d4616886441f99cab8cf": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "ABI/Patch42.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "ABI Patch #42",
+                "shortName": "Patch",
+                "description": "Patch Ripped Right Off A Dead PMC From China"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 14653,
+        "handbookPriceRoubles": 43421,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,653 @@
+{
+    "68d8864a6c99c69807c6124b": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PD/Chains.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "PD2 Papercraft Chains",
+                "shortName": "Papercraft",
+                "description": "DIY Papercraft without the work!"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13500,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d8864903abd866c1bbb12a": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PD/Dallas.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "PD2 Papercraft Dallas",
+                "shortName": "Papercraft",
+                "description": "DIY Papercraft without the work!"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13500,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d886495b4411585c1bfc8c": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PD/Houston.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "PD2 Papercraft Houston",
+                "shortName": "Papercraft",
+                "description": "DIY Papercraft without the work!"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13500,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d8864895b681591cd54679": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PD/Jiro.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "PD2 Papercraft Jiro",
+                "shortName": "Papercraft",
+                "description": "DIY Papercraft without the work!"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13500,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d8864847722852c7cd303a": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PD/Wolf.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "PD2 Papercraft Wolf",
+                "shortName": "Papercraft",
+                "description": "DIY Papercraft without the work!"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13500,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d88647fdf6f24a7f72eea7": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PD/Van.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 2,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "PD2 Papercraft Van",
+                "shortName": "Papercraft",
+                "description": "DIY Papercraft without the work!"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13500,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "68d886470afe8513587554fb": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PD/Safehouse.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 2,
+            "Height": 2,
+            "Width": 2,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "PD2 Papercraft Safehouse",
+                "shortName": "Papercraft",
+                "description": "DIY Papercraft without the work!"
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13500,
+        "handbookPriceRoubles": 13500,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    }
+}

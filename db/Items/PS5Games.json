@@ -1,0 +1,1862 @@
+{
+    "721eb33a354c4d43acbcc68b": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V1.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #1",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 28084,
+        "handbookPriceRoubles": 49619,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "a7d06dc75b554e9c93b9676b": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V2.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #2",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 48171,
+        "handbookPriceRoubles": 29064,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "26e881806bb8460bbbf65e9e": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V3.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #3",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 16482,
+        "handbookPriceRoubles": 9883,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "25b869ab172145bfae5ef830": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V4.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #4",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 47099,
+        "handbookPriceRoubles": 49488,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "b54f090d1d79485b90f27c6b": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V5.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #5",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 21725,
+        "handbookPriceRoubles": 25815,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "1b5acd2b51794d3a9caccb9f": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V6.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #6",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 9588,
+        "handbookPriceRoubles": 5607,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "42bfb7ce440d4fa6b74117a7": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V7.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #7",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 28934,
+        "handbookPriceRoubles": 29524,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "c22aa103553441248dd0c3cf": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V8.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #8",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 16337,
+        "handbookPriceRoubles": 46133,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "03fed79de1f5453fb0463c14": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V9.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #9",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 21412,
+        "handbookPriceRoubles": 17388,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "ac8070058424455f9f95086c": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V10.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #10",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 33354,
+        "handbookPriceRoubles": 47855,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "4bb2f24b0c2b4619ac27308d": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V11.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #11",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 13246,
+        "handbookPriceRoubles": 32278,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "c44f510b096e487582835612": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V12.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #12",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 31319,
+        "handbookPriceRoubles": 26214,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "9d6f906a6e3f4f97a8c9c5af": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V13.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #13",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 10022,
+        "handbookPriceRoubles": 9346,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "318c165339da42a3b424745a": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V14.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #14",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 44224,
+        "handbookPriceRoubles": 26726,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "dbcf28bef2b94bb0957d5951": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V15.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #15",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 12442,
+        "handbookPriceRoubles": 17016,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "e61fc20663f6480598313d12": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V16.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #16",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 27830,
+        "handbookPriceRoubles": 45859,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "8ee681158c734091ae8cd7cc": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V17.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #17",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 27386,
+        "handbookPriceRoubles": 39679,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "24daa42bad6240eb9529785a": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V18.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #18",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 12077,
+        "handbookPriceRoubles": 27112,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "2299537f96394d2f804ac733": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V19.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #19",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 30087,
+        "handbookPriceRoubles": 22598,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    },
+    "8309940872fd4a45a3e4ccee": {
+        "itemTplToClone": "573478bc24597738002c6175",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "BARTER_VALUABLES",
+        "overrideProperties": {
+            "COMMENT_TEXT": "This can override properties from the _props variable from the items itemTplToClone",
+            "ExaminedByDefault": false,
+            "Prefab": {
+                "path": "PS5/ps5V20.bundle",
+                "rcid": ""
+            },
+            "Foldable": false,
+            "Weight": 1,
+            "Height": 1,
+            "Width": 1,
+            "StackMaxSize": 1,
+            "BackgroundColor": "blue"
+        },
+        "locales": {
+            "en": {
+                "name": "Playstation 5 Game #20",
+                "shortName": "Game",
+                "description": "Found At Your Local Gamestop or something."
+            }
+        },
+        "clearClonedProps": false,
+        "fleaPriceRoubles": 26831,
+        "handbookPriceRoubles": 14853,
+        "addtoStaticLootContainers": true,
+        "addtoHallOfFame": [
+            "dogtag",
+            "smallTrophies",
+            "bigTrophies"
+        ],
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DRAWER",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+                "Probability": 25
+            }
+        ]
+    }
+}
